@@ -1,9 +1,10 @@
 def test_example():
-    assert 33 > 11
+    assert 47 > 19
 
 
 def test_another():
     assert 0 == 0
 
-def more_test():
-    assert 5 < -9
+
+def test():
+    assert 5 != 15
