@@ -1,6 +1,10 @@
 def test_example():
-    3 > 1
+    assert 47 > 19
 
 
-def test_another():
+def test():
     assert 0 == 0
+
+
+def test_test():
+    assert 5 == 5
